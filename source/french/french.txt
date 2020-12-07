@@ -4,19 +4,19 @@ Language: fr
 LanguageLocale: fr_FR
 LanguageDescription: Français
 LanguageTranslator: Juh Nibreh
-BerlinDescription: Berlin is a theme inspired by Dieter Rams.
-BlogDescription: Blog pour votre site web.
+BerlinDescription: Berlin est un thème inspiré de Dieter Rams.
+BlogDescription: Blog pour votre site Web.
 BlogBy: par
-BlogTag: Tags:
+BlogTag: Tags :
 BlogMore: Lire la suite…
 BreadcrumbDescription: Breadcrumb navigation.
 BundleDescription: Bundle website files.
-ChineseDescription: Chinese/简体中文 with language 'zh'.
-CommandDescription: Ligne de commande du site web.
-ContactDescription: Email contact page.
-ContactName: Nom:
-ContactEmail: Email:
-ContactMessage: Message:
+ChineseDescription: Chinese/简体中文 avec la langue 'zh'.
+CommandDescription: Ligne de commande du site Web.
+ContactDescription: Page de contact par email.
+ContactName: Nom :
+ContactEmail: Email :
+ContactMessage: Message :
 ContactConsent: Je consens à ce que ce site stocke mon message.
 ContactButton: Envoyer le message
 ContactMailSpam: [Spam]
@@ -27,7 +27,7 @@ ContactStatusInvalid: S'il vous plaît, veuillez entrer une adresse email valide
 ContactStatusReview: S'il vous plaît, veuillez supprimer les liens du message.
 ContactStatusDone: Votre message a bien été envoyé. Merci !
 ContactStatusError: Votre message n'a pas pu être envoyé, réessayez plus tard s'il vous plaît !
-CoreDescription: Fonctionnalité principale du site web.
+CoreDescription: Fonctionnalité principale du site Web.
 CoreDatePast: aujourd'hui, hier, il y a @x jours, il ya 1 mois, il y a @x mois, il y a 1 an, il y a @x ans, le @x
 CoreDateFuture: bientôt, demain, dans @x jours, en 1 mois, dans @x mois, en 1 an, dans @x ans, le @x
 CoreDateMonths: janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre
@@ -53,25 +53,25 @@ CoreError435Title: Page non trouvé
 CoreError435Text: La page demandée a été supprimée. [Vous pouvez restaurer cette page](#data-action-restore).
 CoreError500Title: Erreur du serveur
 CoreError500Text: Une erreur s'est produite. [yellow error]
-CzechDescription: Czech/Čeština with language 'cs'.
-DanishDescription: Danish/Dansk with language 'da'.
-DisqusDescription: Show Disqus comments on blog.
-DraftDescription: Support for draft pages.
+CzechDescription: Czech/Čeština avec la langue 'cs'.
+DanishDescription: Danish/Dansk avec la langue 'da'.
+DisqusDescription: Afficher les commentaires Disqus sur le blog.
+DraftDescription: Prise en charge des brouillons.
 DraftStatusEmpty: Aucun brouillon trouvé.
 DraftPageError: Veuillez vous connecter.
-DutchDescription: Dutch/Nederlands with language 'nl'.
-EditDescription: Modifiez votre site web dans un navigateur web.
+DutchDescription: Dutch/Nederlands avec la langue 'nl'.
+EditDescription: Modifiez votre site Web dans un navigateur Web.
 EditLoginTitle: Bienvenue
-EditLoginEmail: Email:
-EditLoginPassword: Mot de passe:
+EditLoginEmail: Email :
+EditLoginPassword: Mot de passe :
 EditLoginForgot: Mot de passe oublié ?
 EditLoginSignup: Créer un compte utilisateur ?
 EditLoginButton: Se connecter
 EditSignupTitle: Créer un compte utilisateur
-EditSignupName: Nom:
-EditSignupEmail: Email:
-EditSignupPassword: Mot de passe:
-EditSignupConsent: Je consens à ce que ce site web stocke mes données personnelles.
+EditSignupName: Nom :
+EditSignupEmail: Email :
+EditSignupPassword: Mot de passe :
+EditSignupConsent: Je consens à ce que ce site Web stocke mes données personnelles.
 EditSignupButton: Créer
 EditSignupStatusNone: Ici, vous pouvez créer un nouveau compte utilisateur.
 EditSignupStatusIncomplete: Veuillez remplir tous les champs.
@@ -80,12 +80,12 @@ EditSignupStatusWeak: S'il vous plaît, choisissez un mot de passe différent.
 EditSignupStatusShort: S'il vous plaît, choisissez un mot de passe plus long.
 EditSignupStatusNext: Votre compte a été créé, vérifiez vos emails.
 EditForgotTitle: Mot de passe oublié
-EditForgotEmail: Email:
+EditForgotEmail: Email :
 EditForgotStatusNone: Pas de problème, vous pouvez créer un nouveau mot de passe.
 EditForgotStatusInvalid: S'il vous plaît, veuillez entrer une adresse email valide.
 EditForgotStatusNext: Votre compte est à nouveau disponible, vérifiez vos emails.
 EditRecoverTitle: Mot de passe oublié
-EditRecoverPassword: Mot de passe:
+EditRecoverPassword: Mot de passe :
 EditRecoverStatusPassword: S'il vous plaît, choisissez un nouveau mot de passe.
 EditRecoverStatusWeak: S'il vous plaît, choisissez un mot de passe différent.
 EditRecoverStatusShort: S'il vous plaît, choisissez un mot de passe plus long.
@@ -121,9 +121,9 @@ EditRemoveStatusDone: Compte d'utilisateur supprimé. Merci !
 EditRecoverSubject: Restauration d'un compte utilisateur
 EditRecoverMessage: Bonjour @usershort,\n\nveuillez confirmer que vous avez oublié votre mot de passe. Cliquez sur le lien suivant.
 EditWelcomeSubject: Bienvenue
-EditWelcomeMessage: Bonjour @usershort,\n\nvotre compte utilisateur a bien été créé. Amusez-vous bien en éditant le site web.
+EditWelcomeMessage: Bonjour @usershort,\n\nvotre compte utilisateur a bien été créé. Amusez-vous bien en éditant le site Web.
 EditGoodbyeSubject: Au revoir
-EditGoodbyeMessage: Bonjour @usershort,\n\nvotre compte utilisateur a bien été supprimé. Prends soin.
+EditGoodbyeMessage: Bonjour @usershort,\n\nvotre compte utilisateur a bien été supprimé.
 EditAccountTitle: Utilisateur
 EditAccountInformation: Vous pouvez supprimer votre compte d'utilisateur.
 EditAccountMore: Lire la suite…
@@ -134,17 +134,17 @@ EditAccountStatusWeak: S'il vous plaît, choisissez un mot de passe différent.
 EditAccountStatusShort: S'il vous plaît, choisissez un mot de passe plus long.
 EditAccountStatusNext: Votre compte a été changé, vérifiez vos emails.
 EditConfigureTitle: Site web
-EditConfigureSitename: Nom du site:
-EditConfigureAuthor: Nom du webmaster:
-EditConfigureEmail: Email du webmaster:
+EditConfigureSitename: Nom du site :
+EditConfigureAuthor: Nom du webmaster :
+EditConfigureEmail: Email du webmaster :
 EditConfigureInformation: Le webmaster peut approuver les nouveaux comptes d'utilisateurs.
-EditConfigureStatusNone: Ici, vous pouvez configurer votre site web.
+EditConfigureStatusNone: Ici, vous pouvez configurer votre site Web.
 EditConfigureStatusInvalid: S'il vous plaît, veuillez entrer une adresse email valide.
 EditUpdateTitle: Mises à jour
-EditUpdateStatusNone: Datenstrom Yellow est fait pour les gens qui font de petits sites web.
+EditUpdateStatusNone: Datenstrom Yellow est fait pour les gens qui font de petits sites Web.
 EditUpdateStatusCheck: Vérification des mises à jour…
-EditUpdateStatusUpdates: Les mises à jour suivantes sont disponibles:
-EditUpdateStatusOk: Votre site web est à jour.
+EditUpdateStatusUpdates: Les mises à jour suivantes sont disponibles :
+EditUpdateStatusOk: Votre site Web est à jour.
 EditOkButton: Ok
 EditCancelButton: Annuler
 EditChangeButton: Modifier
@@ -191,29 +191,29 @@ EditMenuHelp: Aide
 EditMenuLogout: Déconnexion
 EditYellowUrl: https://datenstrom.se/yellow/
 EditYellowHelpUrl: https://datenstrom.se/yellow/help/
-EmojiawesomeDescription: Lots and lots of emoji.
-EnglishDescription: English/English with language 'en'.
-FeedDescription: Feed with recent changes.
-FontawesomeDescription: Icons and symbols.
-FrenchDescription: French/Français with language 'fr'.
-GalleryDescription: Image gallery with popup.
-GermanDescription: German/Deutsch with language 'de'.
-GooglecalendarDescription: Embed Google calendar.
-GooglemapDescription: Embed Google map.
-HelpDescription: Help for your website.
-HighlightDescription: Highlight source code.
-HungarianDescription: Hungarian/Magyar with language 'hu'.
-ImageDescription: Images and thumbnails.
+EmojiawesomeDescription: Beaucoup d'emojis.
+EnglishDescription: English/English avec la langue 'en'.
+FeedDescription: Flux avec les changements récents.
+FontawesomeDescription: Icônes et symboles.
+FrenchDescription: French/Français avec la langue 'fr'.
+GalleryDescription: Galerie d'images avec popup.
+GermanDescription: German/Deutsch avec la langue 'de'.
+GooglecalendarDescription: Intégrer le calendrier Google.
+GooglemapDescription: Intégrer la carte Google.
+HelpDescription: Aide pour votre site Web.
+HighlightDescription: Mettre en évidence le code source.
+HungarianDescription: Hungarian/Magyar avec la langue 'hu'.
+ImageDescription: Images et vignettes.
 ImageDefaultAlt: Image sans description
-InstagramDescription: Embed Instagram photos.
+InstagramDescription: Intégrer des photos Instagram.
 InstallTitle: Bonjour
 InstallExtension: Que voulez-vous faire ?
-InstallExtensionWebsite: Site web
+InstallExtensionWebsite: Site Web
 InstallExtensionBlog: Blog
 InstallExtensionWiki: Wiki
 InstallHomeTitle: Accueil
-InstallHomeTitleContent: Votre site web fonctionne !
-InstallHomeText: [image photo.jpg Exemple rounded]\n\n[edit - Vous pouvez modifier cette page]. L'aide vous donne plus d'informations sur les petits sites web, blogs et wikis. [Apprenez-en plus](https://datenstrom.se/yellow/help/).
+InstallHomeTitleContent: Votre site Web fonctionne !
+InstallHomeText: [image photo.jpg Exemple rounded]\n\n[edit - Vous pouvez modifier cette page]. L'aide vous donne plus d'informations sur les petits sites Web, blogs et wikis. [Apprenez-en plus](https://datenstrom.se/yellow/help/).
 InstallDefaultTitle: Page
 InstallDefaultText: Ceci est une nouvelle page.
 InstallBlogTitle: Page de blog
@@ -221,38 +221,38 @@ InstallBlogText: Ceci est une nouvelle page de blog.
 InstallWikiTitle: Page de wiki
 InstallWikiText: Ceci est une nouvelle page de wiki.
 InstallExampleImage: Ceci est un exemple d'image
-ItalianDescription: Italian/Italiano with language 'it'.
-JapaneseDescription: Japanese/日本語 with language 'ja'.
+ItalianDescription: Italian/Italiano avec la langue 'it'.
+JapaneseDescription: Japanese/日本語 avec la langue 'ja'.
 MarkdownDescription: Formatage de texte pour les humains.
-MetaDescription: Meta data for social media sites.
-NorwegianDescription: Norwegian/Norsk with language 'nb'.
-ParisDescription: Paris is an elegant theme.
-PolishDescription: Polish/Polski with language 'pl'.
-PortugueseDescription: Portuguese/Português with language 'pt'.
-PreviousnextDescription: Show links to previous/next page.
+MetaDescription: Méta-données pour les sites de médias sociaux.
+NorwegianDescription: Norwegian/Norsk avec la langue 'nb'.
+ParisDescription: Paris est un thème élégant.
+PolishDescription: Polish/Polski avec la langue 'pl'.
+PortugueseDescription: Portuguese/Português avec la langue 'pt'.
+PreviousnextDescription: Afficher les liens vers la page précédente/suivante.
 PreviousnextPagePrevious: ← Précédent: @title
 PreviousnextPageNext: Suivant: @title →
-PublishDescription: Package and publish extensions.
-RussianDescription: Russian/Русский with language 'ru'.
-SearchDescription: Full-text search.
+PublishDescription: Packageer et publier des extensions.
+RussianDescription: Russian/Русский avec la langue 'ru'.
+SearchDescription: Recherche intégral du texte.
 SearchResultsNone: Entrez un mot dans le champ de recherche.
 SearchResultsEmpty: Pas de résultats.
 SearchSpecialChanges: Changements récents
 SearchButton: Rechercher
-SitemapDescription: Sitemap with all pages.
-SliderDescription: Image gallery with slider.
-SlovakDescription: Slovak/Slovenčina with language 'sk'.
-SoundcloudDescription: Embed Soundcloud audio tracks.
+SitemapDescription: Plan du site avec toutes les pages.
+SliderDescription: Galerie d'images avec curseur.
+SlovakDescription: Slovak/Slovenčina avec la langue 'sk'.
+SoundcloudDescription: Incorporer des pistes audio Soundcloud.
 SpanishDescription: Spanish/Español with language 'es'.
 StockholmDescription: Stockholm is a clean theme.
-SwedishDescription: Swedish/Svenska with language 'sv'.
-TocDescription: Table of contents.
-TrafficDescription: Create traffic analytics from web server log files.
-TwitterDescription: Embed Twitter messages.
-UpdateDescription: Gardez votre site web à jour.
-WikiDescription: Wiki pour votre site web.
+SwedishDescription: Swedish/Svenska avec la langue 'sv'.
+TocDescription: Table des matières.
+TrafficDescription: Créer des analyses de trafic à partir des fichiers journaux du serveur Web.
+TwitterDescription: Incorporer les messages Twitter.
+UpdateDescription: Gardez votre site Web à jour.
+WikiDescription: Wiki pour votre site Web.
 WikiModified: Dernière mise à jour le
-WikiTag: Tags:
+WikiTag: Tags :
 WikiSpecialPages: Toutes les pages
 WikiSpecialChanges: Changements récents
-YoutubeDescription: Embed Youtube videos.
+YoutubeDescription: Intégrer des vidéos YouTube.
